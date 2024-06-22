@@ -46,5 +46,4 @@ const updateChatHistory = async (conversationId, toSpecifiedSocketId = null) => 
   }
 };
 
-
 module.exports = { updateChatHistory };
